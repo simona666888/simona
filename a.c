@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("hello simo,nice to meet you!\n");
+	printf("have a nice day,selina");
+	printf("She is a really beutiful girl");
 }
 
